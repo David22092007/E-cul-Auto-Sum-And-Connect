@@ -1,0 +1,14 @@
+# Thư viện tra cứu Google
+google-search-results>=2.4.2
+
+# Thư viện Gemini API để trích xuất dữ liệu
+google-generativeai>=0.4.0
+
+# Xử lý file Excel
+openpyxl>=3.10.0
+
+# Lấy nội dung từ web
+requests>=2.31.0
+
+# Parse HTML
+beautifulsoup4>=4.12.0
